@@ -1,0 +1,100 @@
+{
+    "cars":[
+    {
+      "name": "BMW",
+      "founder": "Franz Josef Popp",
+      "year": 1916,
+      "country": "Germany",
+      "history": "BMW (Bayerische Motoren Werke) is known for its luxury and performance vehicles.",
+      "popular_models": [
+        {
+          "name": "M-Series",
+          "year": "1972 - Present",
+          "info": "The BMW M-Series includes high-performance sports cars designed for enthusiasts.",
+          "image": "https://i.pinimg.com/736x/2c/f6/38/2cf638560e6c14b58fc20cfb6c8aa97a.jpg"
+        },
+        {
+          "name": "X-Series",
+          "year": "1999 - Present",
+          "info": "BMW's luxury SUV lineup offers power, technology, and comfort.",
+          "image": "https://i.pinimg.com/736x/f2/e8/22/f2e8225c64808b6751fd9b7bc9beb2c1.jpg"
+        },
+        {
+          "name": "i-Series",
+          "year": "2013 - Present",
+          "info": "BMW’s electric vehicle lineup focuses on sustainability and innovation.",
+          "image": "https://i.pinimg.com/736x/04/21/30/042130661e72b46be3d9cdb6848f542c.jpg"
+        }
+      ],
+      "logo": "https://i.pinimg.com/236x/c7/a8/dd/c7a8ddb4755af10a89035040f6b3bdcd.jpg"
+    },
+    {
+      "name": "Mercedes",
+      "founder": "Karl Benz",
+      "year": 1926,
+      "country": "Germany",
+      "history": "Mercedes-Benz is a pioneer in luxury automotive engineering.",
+      "popular_models": [
+        {
+          "name": "AMG",
+          "year": "1967 - Present",
+          "info": "Mercedes-AMG offers high-performance versions of Mercedes-Benz cars.",
+          "image": "https://i.pinimg.com/736x/a2/97/d0/a297d099b981d3e6a0ea608101c4c45e.jpg"
+        },
+        {
+          "name": "S-Class",
+          "year": "1972 - Present",
+          "info": "A flagship luxury sedan known for its cutting-edge technology and comfort.",
+          "image": "https://i.pinimg.com/736x/df/ce/d9/dfced9ff31a68e166d991803b91e93e5.jpg"
+        },
+        {
+          "name": "G-Class",
+          "year": "1979 - Present",
+          "info": "A luxury SUV with off-road capability and an iconic boxy design.",
+          "image": "https://i.pinimg.com/236x/ba/d6/75/bad67599f57de97f1805ed20b970011e.jpg"
+        },
+        {
+          "name": "C-Class",
+          "year": "1993 - Present",
+          "info": "A compact executive car offering a balance of luxury and sportiness.",
+          "image": "https://i.pinimg.com/736x/c3/28/a5/c328a56bce7ec9009775b93fe0ccc136.jpg"
+        }
+      ],
+      "logo": "https://i.pinimg.com/736x/3b/10/42/3b1042d30785fea245a2086f5cff3641.jpg"
+    },
+    {
+      "name": "Lamborghini",
+      "founder": "Ferruccio Lamborghini",
+      "year": 1963,
+      "country": "Italy",
+      "history": "Lamborghini is known for its high-performance and exotic supercars.",
+      "popular_models": [
+        {
+          "name": "Huracán",
+          "year": "2014 - Present",
+          "info": "A V10-powered supercar with aggressive styling and extreme speed.",
+          "image": "https://i.pinimg.com/736x/2a/d1/76/2ad17640e4f3670d4db73401e0994e95.jpg"
+        },
+        {
+          "name": "Aventador",
+          "year": "2011 - Present",
+          "info": "Lamborghini’s flagship V12 supercar, known for its extreme performance.",
+          "image": "https://i.pinimg.com/736x/7a/a6/f7/7aa6f7e67feff1671d7740fdf6f893e5.jpg"
+        },
+        {
+          "name": "Revuelto",
+          "year": "2023 - Present",
+          "info": "Lamborghini’s hybrid supercar featuring a V12 engine combined with electric motors.",
+          "image": "https://i.pinimg.com/736x/bc/e7/26/bce72651f0dcda8f56c7d6e2948bc3af.jpg"
+        },
+        {
+          "name": "Urus",
+          "year": "2018 - Present",
+          "info": "The Lamborghini Urus is a high-performance SUV with a 4.0-liter twin-turbo V8 engine, reaching a top speed of 305 km/h (190 mph) and accelerating from 0 to 100 km/h in 3.6 seconds.",
+          "image": "https://i.pinimg.com/474x/ec/70/e0/ec70e03e14071f85baba90ac7d6fa76d.jpg"
+        }
+      ],
+      "logo": "https://i.pinimg.com/236x/0c/d2/ed/0cd2ed43dc909a91ffd84ac53fb432b0.jpg"
+    }
+  ]}
+  
