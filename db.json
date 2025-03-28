@@ -1,5 +1,5 @@
 {
-    "cars":[
+  "cars": [
     {
       "name": "BMW",
       "founder": "Franz Josef Popp",
@@ -71,13 +71,13 @@
       "popular_models": [
         {
           "name": "Huracán",
-          "year": "2014 - Present",
+          "year": "2014 - 2024",
           "info": "A V10-powered supercar with aggressive styling and extreme speed.",
           "image": "https://i.pinimg.com/736x/2a/d1/76/2ad17640e4f3670d4db73401e0994e95.jpg"
         },
         {
           "name": "Aventador",
-          "year": "2011 - Present",
+          "year": "2011 - 2022",
           "info": "Lamborghini’s flagship V12 supercar, known for its extreme performance.",
           "image": "https://i.pinimg.com/736x/7a/a6/f7/7aa6f7e67feff1671d7740fdf6f893e5.jpg"
         },
@@ -86,15 +86,175 @@
           "year": "2023 - Present",
           "info": "Lamborghini’s hybrid supercar featuring a V12 engine combined with electric motors.",
           "image": "https://i.pinimg.com/736x/bc/e7/26/bce72651f0dcda8f56c7d6e2948bc3af.jpg"
-        },
-        {
-          "name": "Urus",
-          "year": "2018 - Present",
-          "info": "The Lamborghini Urus is a high-performance SUV with a 4.0-liter twin-turbo V8 engine, reaching a top speed of 305 km/h (190 mph) and accelerating from 0 to 100 km/h in 3.6 seconds.",
-          "image": "https://i.pinimg.com/474x/ec/70/e0/ec70e03e14071f85baba90ac7d6fa76d.jpg"
         }
       ],
       "logo": "https://i.pinimg.com/236x/0c/d2/ed/0cd2ed43dc909a91ffd84ac53fb432b0.jpg"
+    },
+    {
+      "name": "Porsche",
+      "founder": "Ferdinand Porsche",
+      "year": 1931,
+      "country": "Germany",
+      "history": "Porsche is known for its high-performance sports cars, SUVs, and sedans.",
+      "popular_models": [
+        {
+          "name": "911",
+          "year": "1964 - Present",
+          "info": "An iconic rear-engine sports car with timeless design and performance.",
+          "image": "https://i.pinimg.com/736x/23/b4/3f/23b43f1e898ec168fd97bc55d171f438.jpg"
+        },
+        {
+          "name": "Cayenne",
+          "year": "2002 - Present",
+          "info": "A high-performance luxury SUV blending sportiness and practicality.",
+          "image": "https://i.pinimg.com/736x/bf/26/34/bf26347b763d1aa5b0de9df9edb5c707.jpg"
+        },
+        {
+          "name": "Taycan",
+          "year": "2019 - Present",
+          "info": "Porsche’s first all-electric sports car with cutting-edge technology.",
+          "image": "https://i.pinimg.com/736x/2f/5d/b9/2f5db9c06166cbf98a5b6c7db06782c3.jpg"
+        }
+      ],
+      "logo": "https://i.pinimg.com/236x/d4/6f/19/d46f19e9c401f849ad99aee56406f429.jpg"
+    },
+  {
+  "name": "Ferrari",
+  "founder": "Enzo Ferrari",
+  "year": 1939,
+  "country": "Italy",
+  "history": "Ferrari is a world-renowned brand known for its high-performance sports cars and racing heritage.",
+  "popular_models": [
+    {
+      "name": "LaFerrari",
+      "year": "2013 - 2018",
+      "info": "A limited-production hybrid hypercar with a V12 engine and KERS system.",
+      "image": "https://i.pinimg.com/736x/4c/1f/62/4c1f62b486ce5c30d37c29c0f8c841e1.jpg"
+    },
+    {
+      "name": "488 GTB",
+      "year": "2015 - 2019",
+      "info": "A twin-turbocharged V8 supercar with stunning performance and aerodynamics.",
+      "image": "https://i.pinimg.com/736x/72/3e/bf/723ebf0e508cfdd98f67c5e2fd49aa06.jpg"
+    },
+    {
+      "name": "SF90 Stradale",
+      "year": "2019 - Present",
+      "info": "A plug-in hybrid supercar that combines extreme power with efficiency.",
+      "image": "https://i.pinimg.com/736x/f3/21/6f/f3216fc10b97d5ff377bf2fbd0f2e9b6.jpg"
     }
-  ]}
-  
+  ],
+  "logo": "https://i.pinimg.com/236x/a1/62/b1/a162b17c07cd9b74b554f04aef70765a.jpg"
+},
+{
+  "name": "Aston Martin",
+  "founder": "Lionel Martin, Robert Bamford",
+  "year": 1913,
+  "country": "United Kingdom",
+  "history": "Aston Martin is known for producing luxury sports cars and grand tourers.",
+  "popular_models": [
+    {
+      "name": "DB11",
+      "year": "2016 - Present",
+      "info": "A luxury grand tourer with a V8 or V12 engine.",
+      "image": "https://i.pinimg.com/736x/c6/ef/fd/c6effd60242f6714f604ac65b9a26092.jpg"
+    },
+    {
+      "name": "Vantage",
+      "year": "2005 - Present",
+      "info": "A high-performance sports car with sleek design and agility.",
+      "image": "https://i.pinimg.com/736x/15/32/67/153267ed3147394c3f9e45261292a295.jpg"
+    },
+    {
+      "name": "Valkyrie",
+      "year": "2021 - Present",
+      "info": "An extreme hypercar with Formula 1-inspired aerodynamics.",
+      "image": "https://i.pinimg.com/736x/d9/1b/45/d91b45827b957fe00316ac5ac86b83b2.jpg"
+    }
+  ],
+  "logo": "https://i.pinimg.com/236x/7b/80/3e/7b803e22cb93309d6e45f741cd79dd0b.jpg"
+},
+{
+  "name": "Pagani",
+  "founder": "Horacio Pagani",
+  "year": 1992,
+  "country": "Italy",
+  "history": "Pagani is a niche brand producing handcrafted hypercars with artful designs.",
+  "popular_models": [
+    {
+      "name": "Zonda",
+      "year": "1999 - 2019",
+      "info": "A legendary hypercar known for its naturally aspirated V12 engine.",
+      "image": "https://i.pinimg.com/736x/11/8d/32/118d321254b09fc9a86c3ea85a6cbd37.jpg"
+    },
+    {
+      "name": "Huayra",
+      "year": "2011 - Present",
+      "info": "A twin-turbocharged V12 hypercar with cutting-edge aerodynamics.",
+      "image": "https://i.pinimg.com/736x/66/8c/0f/668c0f5f1de0040097e1f2dfdf8b15e1.jpg"
+    },
+    {
+      "name": "Utopia",
+      "year": "2022 - Present",
+      "info": "Pagani’s latest hypercar featuring a V12 engine and lightweight design.",
+      "image": "https://i.pinimg.com/736x/95/61/78/9561780b40cf9651d8e1ebd0a9ec9135.jpg"
+    }
+  ],
+  "logo": "https://i.pinimg.com/236x/e8/56/3e/e8563e2b2996b6a41d05c6d67bb799d4.jpg"
+},
+{
+  "name": "Toyota",
+  "founder": "Kiichiro Toyoda",
+  "year": 1937,
+  "country": "Japan",
+  "history": "Toyota is one of the largest automakers, known for reliability and innovation.",
+  "popular_models": [
+    {
+      "name": "Supra",
+      "year": "1978 - Present",
+      "info": "A legendary sports car known for its performance and tuning potential.",
+      "image": "https://i.pinimg.com/736x/ba/4e/5c/ba4e5cd6bbf7e20f08c8efc6a151fe7e.jpg"
+    },
+    {
+      "name": "Land Cruiser",
+      "year": "1951 - Present",
+      "info": "A durable SUV with unmatched off-road capabilities.",
+      "image": "https://i.pinimg.com/736x/21/3b/aa/213baa5e3305b18404f697d4fdbdb5f2.jpg"
+    },
+    {
+      "name": "Corolla",
+      "year": "1966 - Present",
+      "info": "One of the best-selling cars in the world, known for its efficiency and reliability.",
+      "image": "https://i.pinimg.com/736x/61/bd/07/61bd07d785c66e50c88194d12cb6b167.jpg"
+    }
+  ],
+  "logo": "https://i.pinimg.com/236x/c1/7e/62/c17e62d5f60e13b84c0ff34e8edaa505.jpg"
+},
+{
+  "name": "Rolls-Royce",
+  "founder": "Charles Rolls, Henry Royce",
+  "year": 1906,
+  "country": "United Kingdom",
+  "history": "Rolls-Royce is synonymous with luxury, craftsmanship, and prestige.",
+  "popular_models": [
+    {
+      "name": "Phantom",
+      "year": "1925 - Present",
+      "info": "The ultimate luxury sedan with unmatched craftsmanship.",
+      "image": "https://i.pinimg.com/736x/af/63/68/af636807e1ff798531f7ff3a86d1db44.jpg"
+    },
+    {
+      "name": "Ghost",
+      "year": "2009 - Present",
+      "info": "A refined luxury sedan offering power and sophistication.",
+      "image": "https://i.pinimg.com/736x/c2/37/42/c23742b98ed31c2b8d002d419a27e1ad.jpg"
+    },
+    {
+      "name": "Cullinan",
+      "year": "2018 - Present",
+      "info": "A luxury SUV providing unparalleled comfort and capability.",
+      "image": "https://i.pinimg.com/736x/2d/5e/1d/2d5e1d5be5f35460fbcf81f5dbca304c.jpg"
+    }
+  ],
+  "logo": "https://i.pinimg.com/236x/99/3d/0b/993d0b7643623a8e37f1db7495ec2b92.jpg"
+}]}
